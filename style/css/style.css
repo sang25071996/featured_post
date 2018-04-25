@@ -1,0 +1,65 @@
+h1{
+	font-size: 50px;
+}
+#container{
+	background: #67b459;
+}
+#header{
+	border-bottom:solid white 0.5px;
+}
+#logo{
+	padding: 10px 40px;
+}
+#nav{
+	height: 40px;
+	background: #ff9800;
+	margin-top: 60px;
+}
+#menu{
+	padding-top: 5px;
+}
+#menu ul li{
+  float: left;
+ /* background: #4c8bf5;*/
+  height:30px;
+  padding: 0px 20px;
+  font-size: 20px;
+  list-style-type: none;
+  border-right:solid white 0.5px;
+  transition: all 1s;
+  text-decoration: none;
+
+}
+#menu ul li:hover{
+	background: white;
+	transition: all 1s;
+}
+
+#nav input{
+	margin-top: 8px;
+}
+#body .nav li{
+	border-bottom:solid white 0.5px;
+	border-top:solid white 0.5px;
+	
+}
+#a {
+	background: white;
+}
+#xachtay img{
+	padding-bottom:15px;
+}
+#ban img{
+	padding-bottom:15px;
+}
+#deban img{
+	padding-bottom:15px;
+}
+#linkkien img{
+	padding-bottom:15px;
+}
+#footer {
+	height: 70px;
+	
+}
+
